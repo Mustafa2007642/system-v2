@@ -665,5 +665,4 @@ client.on('messageCreate', async (message) => {
  }
 })
 //client.login(process.env.token) عشان تحطو بالقفل اذا ريبل ات او اذا فيجوال ستديو سوي ملف .env
-//client.login("TOKEN!")
-client.login("ODk2NzM5ODE5OTQ0ODIwNzc2.YWLgCQ.bFCwdT8WuQhfSMnZ2wHJAEBhuvs")
+client.login("TOKEN!")
