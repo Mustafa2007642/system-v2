@@ -61,17 +61,17 @@ let embed = new Discord.MessageEmbed()
   .setAuthor(message.guild.name, message.guild.iconURL({ dynamic: true }))
   .setColor('BLACK')
   .addFields({
-    name: `🆔 ايدي السيرفر`,
+    name `882308023790477333`,
     value: `${message.guild.id}`,
     inline: true
 
   }, {
-      name: `👑 المالك من`,
+      name: `GLITCH`,
       value: `<@${message.guild.ownerid}>`,
       inline: true
 
     }, {
-      name: `📆 تم انشاء السيرفر بتاريخ`,
+      name: `Age 31,2021`,
       value: `<t:${Math.floor(message.guild.createdAt/1000.0)}:R>`,
       inline: true
     }, {
